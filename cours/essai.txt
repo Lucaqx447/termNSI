@@ -1,0 +1,9 @@
+.
+├── essai.cmd
+├── essai.md
+├── essai.txt
+├── note.touc
+├── note.txt
+└── tpBash.ipynb
+
+3 directories, 4 files
